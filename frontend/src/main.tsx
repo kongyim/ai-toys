@@ -6,6 +6,7 @@ import PromptGenerator from './pages/PromptGenerator';
 import TextExplainer from './pages/TextExplainer';
 import CodeReviewBot from './pages/CodeReviewBot';
 import IdeaExpander from './pages/IdeaExpander';
+import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
