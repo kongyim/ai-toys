@@ -20,6 +20,11 @@ function App() {
             Code Review Bot
           </Link>
         </li>
+        <li>
+          <Link className="text-blue-600 underline" to="/tools/idea-expander">
+            Idea Expander
+          </Link>
+        </li>
       </ul>
     </div>
   );
